@@ -1,4 +1,7 @@
 # This is a little hobby project
+
+This project uses pyglet for graphics
+
 the controls are:
 - the pins
 - and the board
